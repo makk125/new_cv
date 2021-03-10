@@ -1,0 +1,35 @@
+body{
+  background-color: #dbe2ef;
+
+}
+h4{
+  margin: 0;
+}
+p{
+  margin: 0;
+}
+.contacts{
+  margin: 0;
+}
+
+.email{
+  width: 5%;
+  float: left;
+}
+
+.phone{
+  width: 5%;
+  float: left;
+}
+
+.address{
+  width: 5%;
+  float: left
+}
+
+.contacts{
+  margin: 0;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
